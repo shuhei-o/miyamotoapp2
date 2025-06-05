@@ -32,11 +32,11 @@ coverage.xml
 *.swp
 *.swo
 
-# Project specific
-*.pkl
-*.csv
-*.png
-user_data/
-user_history/
-models/
-data/ 
+# Keep all data files
+!*.pkl
+!*.csv
+!*.png
+!user_data/
+!user_history/
+!models/
+!data/ 
