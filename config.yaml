@@ -1,0 +1,6 @@
+credentials:
+  usernames:
+    test_user:
+      email: test@example.com
+      name: Test User
+      password: $2b$12$K9Oy.g7rYRRpU/JKYKHAeOkp8z8RHe7yH3H3zG5RHI5mpxFk7xJHy # 'password123' 

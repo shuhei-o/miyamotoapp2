@@ -1,0 +1,9 @@
+version: 1
+build:
+  type: python
+  python_version: "3.10"
+  requirements_file: requirements.txt
+
+deploy:
+  type: web
+  command: python app.py 
